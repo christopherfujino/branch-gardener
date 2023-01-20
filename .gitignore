@@ -1,0 +1,4 @@
+build/
+.dart_tool
+# All deps exactly pinned, roll newer deps with `dart pub upgrade`
+pubspec.lock
